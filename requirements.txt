@@ -1,0 +1,7 @@
+cffi==1.16.0
+cryptography==42.0.5
+logging==0.4.9.6
+oracledb==2.1.2
+polars==0.20.22
+pycparser==2.22
+python-dotenv==1.0.1
