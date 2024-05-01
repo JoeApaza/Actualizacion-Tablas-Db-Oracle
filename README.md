@@ -1,4 +1,4 @@
-# Actualizacion-Tablas-Db-Oracle :
+# ACTUALIZACION DE TABLAS DE DB ORACLE
 # Python :
 
 Primero, crear un entorno virtual:
