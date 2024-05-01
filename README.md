@@ -1,4 +1,5 @@
 # Actualizacion-Tablas-Db-Oracle :
+# Python :
 
 Primero, crear un entorno virtual:
 ### `python -m virtualenv venv`
